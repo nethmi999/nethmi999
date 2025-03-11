@@ -20,9 +20,7 @@ I'm a passionate Associate Quality Assurance Engineer from Sri Lanka
 
 #### **Testing & Automation**
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![JMeter](https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apache-jmeter&logoColor=white)
 ![Appium](https://img.shields.io/badge/Appium-9F2A9C?style=for-the-badge&logo=appium&logoColor=white)
 
 #### **Databases & CI/CD**
